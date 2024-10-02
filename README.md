@@ -1,0 +1,1 @@
+# plugins-open-links-in-new-tab
